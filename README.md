@@ -1,5 +1,5 @@
-# Project2020
-# Memeber Number : 4
+# Project 2020
+# Member Number's : 4
 פרויקט יסודות הנדסת תוכנה קבוצת 707
 
 Member 1 :
